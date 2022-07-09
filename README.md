@@ -4,7 +4,7 @@ play with the arrow keys [here !](https://romainc75.github.io/IronHack-retroTetr
 
 move : ← and →\
 turn : ↑\
-drop : ↓\
+drop : ↓
 
 ### About
 
